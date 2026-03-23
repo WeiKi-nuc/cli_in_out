@@ -1,19 +1,19 @@
 ================================================================================
 文档静态结构扫描与元数据提取报告
 ================================================================================
-生成时间: 2026-03-16 20:59:14
-输入目录: E:\Tare\day316\project02\source_data
-输出目录: E:\Tare\day316\project02\output_build
+生成时间: 2026-03-24 07:06:42
+输入目录: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data
+输出目录: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\output_build
 
 --------------------------------------------------------------------------------
 一、扫描统计摘要
 --------------------------------------------------------------------------------
 
-  发现文件总数: 6
+  发现文件总数: 5
   已扫描文件: 5
-  跳过文件: 1
+  跳过文件: 0
   错误文件: 0
-  扫描文件总大小: 3.96 KB
+  扫描文件总大小: 4.17 KB
 
 --------------------------------------------------------------------------------
 二、文件类型分布
@@ -30,9 +30,9 @@
 --------------------------------------------------------------------------------
 
 [1/5]
-  文件: E:\Tare\day316\project02\source_data\sample_code.py
+  文件: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data\sample_code.py
     类型: .py
-    大小: 1.16 KB
+    大小: 1.22 KB
     代码统计:
       总行数: 66
       代码行: 45
@@ -42,13 +42,13 @@
       函数: 5
       类: 1
     命名警告:
-      单字母变量: a, b, s, n, y, x
+      单字母变量: y, a, s, b, n, x
       不规范私有变量: _internal, _value, _private_var
 
 [2/5]
-  文件: E:\Tare\day316\project02\source_data\sample_doc.rst
+  文件: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data\sample_doc.rst
     类型: .rst
-    大小: 744 B
+    大小: 791 B
     标题统计:
       级别 1: 1 个
       级别 2: 4 个
@@ -60,9 +60,9 @@
     表格数: 3
 
 [3/5]
-  文件: E:\Tare\day316\project02\source_data\sample_document.md
+  文件: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data\sample_document.md
     类型: .md
-    大小: 882 B
+    大小: 925 B
     标题统计:
       H1: 1 个
       H2: 2 个
@@ -76,9 +76,9 @@
     表格数: 1
 
 [4/5]
-  文件: E:\Tare\day316\project02\source_data\sample_page.html
+  文件: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data\sample_page.html
     类型: .html
-    大小: 942 B
+    大小: 983 B
     页面标题: 示例 HTML 页面
     标题统计:
       H1: 1 个
@@ -90,9 +90,9 @@
     表格数: 1
 
 [5/5]
-  文件: E:\Tare\day316\project02\source_data\sample_text.txt
+  文件: E:\h好玩的小项目\tre项目\cli\cli_in_out - kimi\source_data\sample_text.txt
     类型: .txt
-    大小: 300 B
+    大小: 317 B
     文本统计:
       总行数: 18
       非空行: 12
